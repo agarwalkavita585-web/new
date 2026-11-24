@@ -1,0 +1,22 @@
+{
+  "name": "vayumitra-ai-urban-air-quality-assistant",
+  "version": "1.0.0",
+  "description": "VayuMitra AI — Urban Air Quality Assistant for Indian households and communities (Hack2skill PromptWars Challenge 6).",
+  "main": "index.html",
+  "scripts": {
+    "test": "node app.test.js"
+  },
+  "keywords": [
+    "urban-air-quality",
+    "aqi",
+    "pm25",
+    "genai",
+    "gemini-api",
+    "open-meteo",
+    "accessibility",
+    "hack2skill",
+    "promptwars"
+  ],
+  "author": "Divyanshu Agarwal",
+  "license": "MIT"
+}
